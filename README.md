@@ -1,1 +1,1 @@
-A sample website for learning HTML using Learenough material
+A sample website for learning HTML using Learnenough material
